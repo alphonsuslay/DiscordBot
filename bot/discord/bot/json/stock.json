@@ -1,0 +1,22 @@
+{
+    "MainBot": {
+        "Code": "bot",
+        "Quantity": 10,
+        "Price": 15
+    },
+    "StoreFile": {
+        "Code": "STORE",
+        "Quantity": 10,
+        "Price": 20
+    },
+    "AutomationFile": {
+        "Code": "AUTO",
+        "Quantity": 10,
+        "Price": 15
+    },
+    "testing": {
+        "Code": "test",
+        "Quantity": "1",
+        "Price": 2
+    }
+}

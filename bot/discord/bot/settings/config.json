@@ -1,0 +1,13 @@
+{
+    "TOKEN": "TOKEN",
+    "PREFIX": ".",
+    "STATUS": "dnd",
+    "ACTIVITY": "Playing",
+    "SUGGESTION_CHANNEL_ID": 123,
+    "SERVER_ID": 123,
+    "AUTOROLE_ID": "CHANNEL ID",
+    "ENTRY_LOG_CHANNEL_ID": "CHANNEL ID",
+    "AUTOROLE_STATE": "True",
+    "VERIFYROLE_ID": "CHANNEL ID",
+    "PURCHASEHIST_CHANNEL": "CHANNEL ID"
+}

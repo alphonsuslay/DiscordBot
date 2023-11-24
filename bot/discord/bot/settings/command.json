@@ -1,0 +1,31 @@
+{
+  "ping": "Check the bot's latency.",
+  "eightball [question]": "Ask the magic eight ball a question.",
+  "help [command name]": "Displays a list or the specific built-in commands.",
+  "message [channel] [message content]": "Sends a message to a specified text channel using the bot.",
+  "serverinfo": "Displays information about the server.",
+  "setprefix [new prefix]": "Changes the prefix of the bot",
+  "setstatus [online/idle/dnd]": "Sets the bot status to either online/idle/dnd",
+  "userinfo [user mention]": "Retrieve information on the discord user. Mentioning no user will view your own information.",
+  "clear [number]": "Deletes a specificed number of messages.",
+
+  "shop": "Shows the list of products, product code, and price.",
+  "addproduct [product name] [code] [quantity] [price]": "Adds a product with the following details to the shop.",
+  "removeproduct [product name/code]": "Removes the product from the shop.",
+  "addstock [product name/code] [quantity]": "Adds stock to the product",
+  "removestock [product name/code] [quantity]": "Removes stock from the shop.",
+  "order [product name/code] [quantity]": "Places an order for the product. A Order ID will be generated",
+  "removeorder [Order ID]": "Removes an order from the list of orders.",
+  "complete [Order ID]": "Marks a order as completed and removes it from the list of orders.",
+  "vieworder [Order ID]": "View all orders or a specific order which contains information such as the discord user, Product Code, and quantity.",
+  "myorder": "View the individual Order ID, Product Code, and quantity.",
+  "editproduct [old product name] [new product name] [new product code]": "To edit the specified product with a new product name and code.",
+
+  "setautorole [role mention]": "Sets the automated role for new users.",
+  "setentry [channel mention]": "Sets the channel for welcome message to be sent.",
+  "autorole": "Enables/Disables the autorole feature.",
+  "createrole [role name]": "Creates a new role",
+  "deleterole [role name]": "Deletes the specificed role",
+  "removerole [user] [role]": "Removes the specificed role from the specificed user",
+  "addrole [user] [role]": "Adds the specificed role from the specificed user"
+}
